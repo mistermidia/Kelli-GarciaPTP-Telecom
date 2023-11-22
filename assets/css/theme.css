@@ -66,12 +66,12 @@
     top: 0;
     z-index: 3;
     width: 100%;
-    padding: 30px 35px;
+    padding: 13px 20px;
 }
 .psContent h3{
     margin: 0 0 9px;
     color: #FFF;
-    font-size: 18px;
+    font-size: 23px;
     font-weight: 600;
     line-height: .8;
     text-transform: capitalize;
@@ -295,7 +295,7 @@
     -webkit-transition: all ease 300ms;
 }
 .mainMenu ul li.active i, .mainMenu ul li:hover i{
-    color: #d80101;
+    color: #ffffff;
     opacity: .1;
 }
 .menu_btn{
@@ -862,7 +862,7 @@
     height: 15px;
 }
 .ldInner.profLevel1 span:nth-child(1):after{
-    background: #d8c201;
+    background: #f53535;
 }
 .ldInner.profLevel2 span:nth-child(-n+3):after{
     background: #f53535;
