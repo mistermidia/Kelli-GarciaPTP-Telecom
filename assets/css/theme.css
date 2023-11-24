@@ -150,7 +150,7 @@
 .pssbCount {
     font-size: 16px;
     line-height: .8;
-    color: #ffffff;
+    color: #8d8d8d;
     font-weight: 700;
     margin: 0 0 0 0;
     position: absolute;
@@ -262,7 +262,7 @@
     display: block;
     font-size: 14px;
     line-height: 34px;
-    color: #FFF;
+    color: #ffffff;
     font-weight: 500;
     text-transform: capitalize;
     line-height: .8;
@@ -464,7 +464,7 @@
 .icon_box_02 h5{
     font-size: 12px;
     line-height: .8;
-    color: #ffffff;
+    color: #be0a0a;
     font-weight: 400;
     letter-spacing: 2px;
     margin: 0 0 21px 0;

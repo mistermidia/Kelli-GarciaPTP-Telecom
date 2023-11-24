@@ -108,7 +108,7 @@ input:focus, button:focus, select:focus, textarea:focus, a:focus{
 .sectionTitle{
     font-weight: 700;
     font-size: 20px;
-    color: #f53535;
+    color: #707070;
     letter-spacing: 0;
     line-height: .8;
     margin: 0 0 35px;
@@ -127,12 +127,12 @@ input:focus, button:focus, select:focus, textarea:focus, a:focus{
 .btt_btn{
     height: 50px;
     display: inline-block;
-    padding: 0 35px;
-    font-size: 11px;
+    padding: 0 75px;
+    font-size: 15px;
     font-weight: 600;
     line-height: 50px;
     color: #FFF;
-    background: #b61500;
+    background: #06b600;
     position: relative;
     overflow: hidden;
     border: none;
@@ -175,7 +175,7 @@ input:focus, button:focus, select:focus, textarea:focus, a:focus{
     left: auto;
     right: 0;
     top: 0;
-    background: #f53535;
+    background: #35f535;
     transition: width .4s cubic-bezier(.25,.8,.25,1) 0s;
     -moz-transition: width .4s cubic-bezier(.25,.8,.25,1) 0s;
     -webkit-transition: width .4s cubic-bezier(.25,.8,.25,1) 0s;
